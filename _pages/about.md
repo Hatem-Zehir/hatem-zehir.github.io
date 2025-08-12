@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me 👋
+# 👋 About Me
 I am a researcher with a PhD in electronics and expertise in deep learning, biometric systems, signal and image processing, and TinyML applications in academic research. By combining these skills, I tackle key challenges in bringing edge AI algorithms into real-world use, driving innovations in healthcare and embedded systems to deliver intelligent and efficient solutions.
 
 # 🔬 Research Interests:
