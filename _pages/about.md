@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About Me 👋
-I am a researcher and developer specializing in deep learning, biometric systems, and TinyML applications. My work bridges edge AI algorithms with practical, real-world implementations, particularly in healthcare and embedded systems.
+I hold a PhD in electronics and am a researcher and developer specializing in deep learning, biometric systems, and TinyML applications. My work bridges edge AI algorithms with practical, real-world implementations, particularly in healthcare and embedded systems.
 
 # 🔬 Research Interests:
 - Biometric Identification: Leveraging ECG, voice, and online handwritten signatures for secure and accurate authentication.
