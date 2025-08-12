@@ -40,7 +40,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-3578-2634"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Hatem-Zehir"# URL
   scopus           : # URL
 
   # Repositories and software development
