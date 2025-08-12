@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hatem Zehir - Biometrics, Deep Learning and More"
+title                    : "Hatem's Homepage"
 title_separator          : "-"
 name                     : &name "Hatem Zehir"
 description              : &description "I am a researcher and developer specializing in deep learning, biometric systems, and TinyML applications. My work bridges edge AI algorithms with practical, real-world implementations, particularly in healthcare and embedded systems."
@@ -25,7 +25,7 @@ author:
   avatar           : "profile_zehir.png"
   name             : "Hatem Zehir"
   pronouns         : # example: "she/her"  
-  bio              : "PhD | Deep Learning | Signal Processing | Image Processing | TinyML"
+  bio              : "PhD | Deep Learning | Multimodal Learning | Signal Processing | Image Processing | TinyML"
   location         : "Annaba, Algeria"
   employer         : # "Red Brick University"
   uri              : # URL
