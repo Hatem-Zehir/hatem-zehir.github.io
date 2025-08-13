@@ -7,7 +7,7 @@ excerpt: 'ECG-based biometric ID using EMD+GRU achieves up to 99.89% accuracy on
 date: 2025-08-06
 venue: 'Multimedia Tools and Applications'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/epdf/10.1007/s11042-025-21044-1)'
+paperurl: 'https://rdcu.be/ezDKT'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Zehir, H., Hafs, T., Daas, S., & Nait-ali, A. (2025). EMD based biometric identification system from electrocardiogram signals using GRU neural networks. Multimedia Tools and Applications, 1-20.'
 ---
