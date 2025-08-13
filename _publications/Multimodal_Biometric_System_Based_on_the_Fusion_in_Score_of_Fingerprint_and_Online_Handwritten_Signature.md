@@ -3,7 +3,7 @@ title: "Multimodal Biometric System Based on the Fusion in Score of Fingerprint 
 collection: publications
 category: manuscripts
 permalink: /publication/Multimodal_Biometric_System_Based_on_the_Fusion_in_Score_of_Fingerprint_and_Online_Handwritten_Signature
-excerpt: 'Score-normalized multimodal biometrics with EMD fusing signature and fingerprint outperforming SOTA and enhancing accuracy and fraud prevention.'
+excerpt: 'Score-normalized multimodal biometrics that use EMD to combine a signature and a fingerprint, making it more accurate and less likely to be forged.'
 date: 2023-08-17
 venue: 'Applied Computer Systems'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
