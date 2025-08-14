@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Healthcare_Decision_Making_with_an_ECG_Based_Biometric_System
 excerpt: 'ECG QRS-based biometrics achieve 99.47% accuracy on healthy subjects and 97.60% on mixed cases, offering secure, reliable identification for healthcare and security.'
-date: 2025-09-16
+date: 2024-09-16
 venue: '2023 International Conference on Decision Aid Sciences and Applications'
 slidesurl: 'https://hatem-zehir.github.io/files/conferences/Presentation_Healthcare_Decision_Making_with_an_ECG_Based_Biometric_System.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10286620'

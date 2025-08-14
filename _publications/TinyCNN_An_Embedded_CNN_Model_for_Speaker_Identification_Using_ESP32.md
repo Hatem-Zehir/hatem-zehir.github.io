@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/TinyCNN_An_Embedded_CNN_Model_for_Speaker_Identification_Using_ESP32
 excerpt: 'Optimized quantized CNN for speaker recognition on ESP32 hits 98.58% accuracy, 53% faster and 73% smaller, enabling efficient edge deployment.'
-date: 2025-11-22
+date: 2024-11-22
 venue: 'The 1st International Conference on Electrical Engineering & Renewable Energies Systems'
 slidesurl: 'https://hatem-zehir.github.io/files/conferences/Presentation_TinyCNN_An_Embedded_Voice_Based_User_Identification_Using_ESP32.pdf'
 paperurl: 'https://hatem-zehir.github.io/files/conferences/TinyCNN_An_Embedded_Voice_Based_User_Identification_Using_ESP32.pdf'

@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/ECG_Based_Biometric_System_using_TinyML_Implementation_and_Performance_Evaluation_on_ESP32
 excerpt: 'TinyML-based ECG biometric system on ESP32 achieves 96.71% accuracy, enabling resource-efficient personal identification.'
-date: 2025-10-25
+date: 2024-10-25
 venue: 'ICAECCT23: The 1st International Conference on Advances in Electronics, Control and Computer Technologies'
 slidesurl: 'https://hatem-zehir.github.io/files/conferences/Presentation_ECG_Based_Biometric_System_using_TinyML_Implementation_and_Performance_Evaluation_on_ESP32.pdf'
 paperurl: 'https://hatem-zehir.github.io/files/conferences/ECG_Based_Biometric_System_using_TinyML_Implementation_and_Performance_Evaluation_on_ESP32.pdf'
