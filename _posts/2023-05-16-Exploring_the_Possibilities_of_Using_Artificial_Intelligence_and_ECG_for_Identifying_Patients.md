@@ -8,8 +8,6 @@ tags:
   - Healthcare Technology
 ---
 
-# Exploring the Possibilities of Using Artificial Intelligence and ECG for Identifying Patients
-
 On **16 May 2023**, I had the pleasure of presenting my work *“Exploring the Possibilities of Using Artificial Intelligence and ECG for Identifying Patients”* at the event **AI in the Medical Field**, organized by the **House of AI** at **Badji Mokhtar – Annaba University**.  
 The event, held on the occasion of **Students’ Day**, gathered professors, researchers, PhD candidates, and students from diverse disciplines to explore the transformative role of AI in healthcare.  
 Adding to the occasion, **Radio Annaba** covered the event, helping share the discussions with a wider audience.
@@ -42,7 +40,7 @@ Speaking to such a diverse audience reinforced my belief that advances in health
 
 ## Resources
 
-- [Download the presentation slides](https://hatem-zehir.github.io/files/Exploring_the_Possibilities_of_Using_Artificial_Intelligence_and_ECG_for_Identifying_Patients.pdf)  
+- [Download the presentation slides](https://hatem-zehir.github.io/files/talks/Exploring_the_Possibilities_of_Using_Artificial_Intelligence_and_ECG_for_Identifying_Patients.pdf)  
 
 ---
 
