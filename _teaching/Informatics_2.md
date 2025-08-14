@@ -8,8 +8,7 @@ date: 2025-03-01
 location: "Annaba, Algeria"
 ---
 
-## Informatics 2 – Digital Image Processing  
-**Credits:** 2 | **Coefficient:** 2 | **Course Unit:** UE Discovery UED21  
+**Credits:** 2 | **Coefficient:** 2 | **Course Unit:** UED 2.1  
 
 This course introduces students to the fundamentals of digital image processing, with a focus on the tools and methods used in the graphic design profession.  
 Participants will learn to:  
