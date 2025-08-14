@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Informatics_2
 venue: "Badji Mokhtar - Annaba University, Urban Planning Department"
-date: 2025-02
+date: 2025-03-01
 location: "Annaba, Algeria"
 ---
 
