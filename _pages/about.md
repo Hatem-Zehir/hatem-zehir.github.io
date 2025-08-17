@@ -9,11 +9,6 @@ redirect_from:
 
 Hello, and welcome. My name is Hatem Zehir, and I hold a PhD in Electronics with a specialization in security and biometrics. My academic journey has been shaped by a deep curiosity about how technology can reliably recognize and protect individuals. From the very beginning of my studies, I was fascinated by the idea that something as unique as a heartbeat could serve as a secure key to identity.
 
-During my doctoral research, I developed a hybrid multimodal biometric system that combines electrocardiogram (ECG) signals with voice data. This fusion of physiological and behavioral traits allowed me to explore novel methods of authentication that are more accurate, robust, and resilient to spoofing than traditional unimodal approaches.
-
-
-Alongside biometrics, I maintain a strong interest in signal processing, image processing, deep learning, and artificial intelligence. What motivates me is the challenge of transforming complex data into meaningful patterns, and designing systems that remain reliable under diverse and unpredictable conditions. For me, research is not only about solving technical problems but also about contributing to a safer, more trustworthy interaction between humans and technology.
-
 # What I Work On
 My research centers on the development of biometric authentication systems that combine the strengths of signal processing, deep learning, and artificial intelligence. I am particularly interested in how these disciplines can be integrated to address the limitations of conventional systems, and to design solutions that are both scientifically rigorous and practically applicable.
 
@@ -36,7 +31,6 @@ While deep learning forms the backbone of my investigations, I also retain a str
 My research has been disseminated through several first-authored publications in international journals, which are detailed in the [Publications section](https://hatem-zehir.github.io/publications/) of this website.
 
 # Why I Do This Work
-
 My interest in artificial intelligence began with a simple question that has stayed with me ever since: can machines learn to see the world as we do, or even in ways we cannot? That question first emerged from curiosity, a fascination with the way humans can recognize patterns almost instinctively, while computers require explicit instructions. I wondered what might happen if machines could go beyond rules and instead learn on their own. This curiosity soon grew into a passion: the more I studied AI, the more I saw its potential to reshape not only technology, but the way we understand ourselves.
 
 For me, the most exciting aspect of AI lies in its ability to reveal the invisible. Deep learning models can take raw signals, fragments of voice, or pixels from an image and transform them into meaningful representations that reflect something profoundly human. In these moments, AI feels less like a cold, mechanical tool and more like a companion in discovery, one that allows us to see what we could not see before.
@@ -48,3 +42,13 @@ At the heart of it all is a belief that research is a journey of discovery rathe
 When I was young, I spent my summers exploring Koholint Island in The Legend of Zelda: Link’s Awakening (or Île Cocolint, as I played it in French). That game left a deep mark on me, not only because of its mystery and adventure, but because it taught me that even the smallest worlds are full of hidden secrets waiting to be uncovered. Today, I feel much the same way when working in AI: every dataset is its own island, and every algorithm a tool for discovery.
 
 I also grew up with Pokémon Blue, and later with Gold and Silver. In Gen 1, the thrill came from simply discovering and capturing new creatures, much like my early encounters with AI, where everything felt new, uncharted, and full of possibility. Then came Gen 2, with its richer mechanics, evolving systems, and the surprising return to the original Kanto region. That deeper complexity mirrors the way research unfolds: the more you learn, the more layers you uncover, and the more connections you see between what seemed like separate worlds. For me, AI carries that same evolving sense of wonder, it starts with curiosity, but it grows into a lifelong journey where each discovery opens the door to another.
+
+# Vision & Future Directions
+
+As I look ahead, my focus is on advancing research in deep learning, signal processing, and image processing, fields that lie at the heart of today’s AI revolution. These areas provide the tools to uncover structure in complex data, turning signals, images, and multimodal information into insights that can power real applications. My doctoral research applied these methods to biometric authentication, but their potential extends far beyond, reaching into healthcare, computer vision, and intelligent data-driven systems.
+
+I am especially motivated by the challenge of making AI systems that are not only accurate but also robust, adaptable, and trustworthy. Real-world data is messy, it contains noise, variation, and uncertainty — and part of my vision is to design models that can thrive under those conditions. Whether working with signals from the human body or patterns in images, I see deep learning as a framework that can bring clarity and reliability to complex problems.
+
+In the next phase of my career, I am seeking opportunities as a **postdoctoral researcher** or in academic positions such as **Lecturer** or **Assistant Professor**, where I can expand this research while also contributing to teaching and mentoring. I believe strongly in the value of helping students and early researchers navigate the exciting but challenging world of AI, building skills that combine theory with practice. At the same time, I remain open to collaborations with industry, where applied research can directly shape technologies used in everyday life.
+
+My long-term vision is to contribute to a research community where deep learning, guided by signal and image processing, drives new discoveries. As Carl Sagan once wrote: *“Somewhere, something incredible is waiting to be known.”* That sense of curiosity and exploration continues to guide my work, and it is the same spirit I hope to bring to future research, teaching, and collaborations.
