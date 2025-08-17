@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 # 👋 About Me
-I am a researcher with a PhD in electronics and expertise in deep learning, biometric systems, signal and image processing, and TinyML applications in academic research. By combining these skills, I tackle key challenges in bringing edge AI algorithms into real-world use, driving innovations in healthcare and embedded systems to deliver intelligent and efficient solutions.
+Hello, and welcome. My name is Hatem, and I hold a PhD in Electronics with a specialization in security and biometrics. My academic journey has been shaped by a deep curiosity about how technology can reliably recognize and protect individuals. From the very beginning of my studies, I was fascinated by the idea that something as unique as a heartbeat or a voice could serve as a secure key to identity.
+
+During my doctoral research, I developed a hybrid multimodal biometric system that combines electrocardiogram (ECG) signals with voice data. This fusion of physiological and behavioral traits allowed me to explore novel methods of authentication that are more accurate, robust, and resilient to spoofing than traditional unimodal approaches.
+
+
+Alongside biometrics, I maintain a strong interest in signal processing, image processing, deep learning, and artificial intelligence. What motivates me is the challenge of transforming complex data into meaningful patterns, and designing systems that remain reliable under diverse and unpredictable conditions. For me, research is not only about solving technical problems but also about contributing to a safer, more trustworthy interaction between humans and technology.
 
 # 🔬 Research Interests:
 - Biometric Identification: Leveraging ECG, voice, and online handwritten signatures for secure and accurate authentication.
