@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # 👋 About Me
-Hello, and welcome. My name is Hatem ًًZehir, and I hold a PhD in Electronics with a specialization in security and biometrics. My academic journey has been shaped by a deep curiosity about how technology can reliably recognize and protect individuals. From the very beginning of my studies, I was fascinated by the idea that something as unique as a heartbeat could serve as a secure key to identity.
+Hello, and welcome. My name is Hatem Zehir, and I hold a PhD in Electronics with a specialization in security and biometrics. My academic journey has been shaped by a deep curiosity about how technology can reliably recognize and protect individuals. From the very beginning of my studies, I was fascinated by the idea that something as unique as a heartbeat could serve as a secure key to identity.
 
 During my doctoral research, I developed a hybrid multimodal biometric system that combines electrocardiogram (ECG) signals with voice data. This fusion of physiological and behavioral traits allowed me to explore novel methods of authentication that are more accurate, robust, and resilient to spoofing than traditional unimodal approaches.
 
