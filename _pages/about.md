@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 Hello, and welcome. My name is Hatem Zehir, and I hold a PhD in Electronics with a specialization in security and biometrics. My academic journey has been shaped by a deep curiosity about how technology can reliably recognize and protect individuals. From the very beginning of my studies, I was fascinated by the idea that something as unique as a heartbeat could serve as a secure key to identity.
 
 During my doctoral research, I developed a hybrid multimodal biometric system that combines electrocardiogram (ECG) signals with voice data. This fusion of physiological and behavioral traits allowed me to explore novel methods of authentication that are more accurate, robust, and resilient to spoofing than traditional unimodal approaches.
@@ -35,3 +34,17 @@ Arthur C. Clarke once wrote that *“Any sufficiently advanced technology is ind
 While deep learning forms the backbone of my investigations, I also retain a strong interest in signal processing and image analysis. These areas provide the essential tools for preparing, enhancing, and interpreting raw data, and I view them as indispensable complements to machine learning methods. For me, combining the strengths of classical processing techniques with modern AI approaches opens new avenues for robust and reliable system design.
 
 My research has been disseminated through several first-authored publications in international journals, which are detailed in the [Publications section](https://hatem-zehir.github.io/publications/) of this website.
+
+# Why I Do This Work
+
+My interest in artificial intelligence began with a simple question that has stayed with me ever since: can machines learn to see the world as we do, or even in ways we cannot? That question first emerged from curiosity, a fascination with the way humans can recognize patterns almost instinctively, while computers require explicit instructions. I wondered what might happen if machines could go beyond rules and instead learn on their own. This curiosity soon grew into a passion: the more I studied AI, the more I saw its potential to reshape not only technology, but the way we understand ourselves.
+
+For me, the most exciting aspect of AI lies in its ability to reveal the invisible. Deep learning models can take raw signals, fragments of voice, or pixels from an image and transform them into meaningful representations that reflect something profoundly human. In these moments, AI feels less like a cold, mechanical tool and more like a companion in discovery, one that allows us to see what we could not see before.
+
+Over time, this fascination led me toward the study of identity. Few questions are as fundamental as what makes us unique, and how can we prove that uniqueness? Biometrics gave me a way to explore this question scientifically. By working with ECG signals, voice, and other modalities, I found a field where AI could be applied not just to abstract datasets, but to something deeply human. The systems I build are not only about improving accuracy or robustness; they are also about protecting individuality, ensuring security, and designing technologies that recognize people for who they truly are.
+
+At the heart of it all is a belief that research is a journey of discovery rather than a race to a finish line. Each experiment, each new model, carries the possibility of an insight that reshapes the way I think. Even setbacks, a model that fails to converge, or an unexpected variation in biometric data, are moments of learning that deepen my understanding. In this sense, AI research mirrors life itself: full of challenges, surprises, and opportunities to see the familiar in a completely new way.
+
+When I was young, I spent my summers exploring Koholint Island in The Legend of Zelda: Link’s Awakening (or Île Cocolint, as I played it in French). That game left a deep mark on me, not only because of its mystery and adventure, but because it taught me that even the smallest worlds are full of hidden secrets waiting to be uncovered. Today, I feel much the same way when working in AI: every dataset is its own island, and every algorithm a tool for discovery.
+
+I also grew up with Pokémon Blue, and later with Silver. In Gen 1, the thrill came from simply discovering and capturing new creatures, much like my early encounters with AI, where everything felt new, uncharted, and full of possibility. Then came Gen 2, with its richer mechanics, evolving systems, and the surprising return to the original Kanto region. That deeper complexity mirrors the way research unfolds: the more you learn, the more layers you uncover, and the more connections you see between what seemed like separate worlds. For me, AI carries that same evolving sense of wonder, it starts with curiosity, but it grows into a lifelong journey where each discovery opens the door to another.
