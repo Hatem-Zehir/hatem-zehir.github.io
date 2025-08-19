@@ -8,9 +8,7 @@ tags:
   - Healthcare Technology
 ---
 
-On **16 May 2023**, I had the pleasure of presenting my work *“Exploring the Possibilities of Using Artificial Intelligence and ECG for Identifying Patients”* at the event **AI in the Medical Field**, organized by the **House of AI** at **Badji Mokhtar – Annaba University**.  
-The event, held on the occasion of **Students’ Day**, gathered professors, researchers, PhD candidates, and students from diverse disciplines to explore the transformative role of AI in healthcare.  
-Adding to the occasion, **Radio Annaba** covered the event, helping share the discussions with a wider audience.
+On **16 May 2023**, I had the pleasure of presenting my work *“Exploring the Possibilities of Using Artificial Intelligence and ECG for Identifying Patients”* at the event **AI in the Medical Field**, organized by the **House of AI** at **Badji Mokhtar – Annaba University**. The event, held on the occasion of **Students’ Day**, gathered professors, researchers, PhD candidates, and students from diverse disciplines to explore the transformative role of AI in healthcare. Adding to the occasion, **Radio Annaba** covered the event, helping share the discussions with a wider audience.
 
 ---
 
